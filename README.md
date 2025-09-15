@@ -155,7 +155,7 @@ Test email → Alerts should now be sent.
 
 <img width="2592" height="1378" alt="image" src="https://github.com/SaddamGulzar/images/blob/main/memory.png" />
 <img width="2592" height="1378" alt="image" src="https://github.com/SaddamGulzar/images/blob/main/CPU-Resolved.png" />
-<img width="2592" height="1378" alt="image" src="https://github.com/SaddamGulzar/images/blob/main/CPU-Firing.png" />
+<img width="2592" height="1378" alt="image" src="https://github.com/SaddamGulzar/images/blob/main/CPU-%20Firing.png" />
 
 
 
