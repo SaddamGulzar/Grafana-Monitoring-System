@@ -153,7 +153,7 @@ Test email → Alerts should now be sent.
 - Email alerts sent to Gmail
 
 
-<img width="2592" height="1378" alt="image" src="https://github.com/user-attachments/assets/76d2a448-f3fa-4b98-9d6a-8d5b497a704e" />
+<img width="2592" height="1378" alt="image" src="C:\Users\Saddam Gulzar\OneDrive\Pictures\Screenshots 1" />
 
 
 
