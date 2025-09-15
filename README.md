@@ -1,4 +1,4 @@
-# Setup Monitoring System
+# Grafan - Prometheus Monitoring System
 The is about setting up Prometheus, Grafana, Node Exporter, and cAdvisor on Ubuntu, then configuring alerting rules and email notifications via Grafana.
 
 
